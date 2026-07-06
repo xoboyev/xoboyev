@@ -1,4 +1,4 @@
-# Hi there, I'm [Friend's Name] / xoboyev 👋
+# Hi there, I'm  xoboyev 👋
 
 **Web Developer | UI/UX Enthusiast | Problem Solver**
 
