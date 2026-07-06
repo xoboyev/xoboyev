@@ -43,8 +43,4 @@ Since the web evolves rapidly, I am currently dedicating my time to:
 
 ### 📫 Let's Connect
 
-If you want to collaborate on a project, discuss web architecture, or just talk code, reach out:
-
-*   **Email:** [Insert Email Here]
-*   **LinkedIn:** [Insert LinkedIn URL]
-*   **Portfolio:** [Insert Portfolio URL]
+If you want to collaborate on a project, discuss web architecture, or just talk code.
